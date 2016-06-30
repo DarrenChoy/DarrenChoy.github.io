@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Trade+Winds);
+* {
+  background-color:#85E0FF;
+}
+input,
+select {
+  display:block;
+}
+div {
+  padding-left:200px;
+  padding-top:50px;
+}
+button {
+  float:right;
+  background-color:#D7EFF7;
+}
+form {
+  
+}
+h1 {
+  font-family:"Trade Winds";
+  text-shadow:10px 20px 40px black;
+  color:#97A4A8;
+}
+p,
+h3 {
+  color:#F22E2E;
+  font-family:Indie Flower;
+  font-size:20px;
+}
+select,
+input {
+    background-color:#D7EFF7;
+}
